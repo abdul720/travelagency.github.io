@@ -4,8 +4,8 @@ This is a landing home page
 
 This project is made on VS CODE editor 
 
-Following are the screenshots of the website 
+Following are the screenshot of the website 
 
-![image](https://user-images.githubusercontent.com/73010648/174483787-efa97e20-be86-42c6-95bc-715765eafab9.png)
-![image](https://user-images.githubusercontent.com/73010648/174483863-e9d0f942-d8c4-4e5b-b2f8-a18a4a175d9d.png)
+![project sss](https://user-images.githubusercontent.com/73010648/174484126-7f07816c-c4a2-4eb2-9ce4-16c09f4344e3.png)
+
 
